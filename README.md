@@ -1,2 +1,2 @@
 # testrepo
-creating testrepo for learning
+creating testrepo for training
